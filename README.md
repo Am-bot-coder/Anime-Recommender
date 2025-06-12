@@ -1,7 +1,7 @@
 # Anime-Recommender
 Anime Recommendation ML Model
 
-# 🎌 Anime Recommendation System
+# Anime Recommendation System
 
 This is a basic content-based anime recommendation system built using Python and scikit-learn. It analyzes metadata like genres, synopsis, studios, and more to recommend similar anime titles.
 
